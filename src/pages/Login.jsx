@@ -1,3 +1,22 @@
+import React from 'react';
+
+const Login = () => {
+    return (
+        <div>
+            login page
+        </div>
+    );
+};
+
+export default Login;
+
+
+
+
+
+
+
+
 // import React, { use, useState } from "react";
 // import { Link, useLocation, useNavigate } from "react-router";
 // import { AuthContext } from "../provider/AuthProvider";

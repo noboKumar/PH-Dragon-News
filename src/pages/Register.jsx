@@ -1,3 +1,22 @@
+import React from 'react';
+
+const Register = () => {
+    return (
+        <div>
+            register
+        </div>
+    );
+};
+
+export default Register;
+
+
+
+
+
+
+
+
 // import React, { use, useState } from "react";
 // import { Link, useNavigate } from "react-router";
 // import { AuthContext } from "../provider/AuthProvider";

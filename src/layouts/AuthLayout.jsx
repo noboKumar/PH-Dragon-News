@@ -1,3 +1,23 @@
+import React from 'react';
+
+const AuthLayout = () => {
+    return (
+        <div>
+            auth layout
+        </div>
+    );
+};
+
+export default AuthLayout;
+
+
+
+
+
+
+
+
+
 // import React from "react";
 // import Navbar from "../components/Navbar";
 // import { Outlet } from "react-router";
